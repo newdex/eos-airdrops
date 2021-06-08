@@ -82,6 +82,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DAPP          | dappservices  |
 | DEOS          | thedeosgames  |
 | DEFI          | defind.io     |
+| DEX           | token.newdex  |
 | DOP           | dolphintoken  |
 | DOWN          | elliottkelly  |
 | DICE          | betdicetoken  |
